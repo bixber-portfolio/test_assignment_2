@@ -1,0 +1,242 @@
+[
+  {
+    "model": "monitor.machine",
+    "pk": 1,
+    "fields": {
+      "name": "machine-1",
+      "endpoint": "http://127.0.0.1:8001/machine/1"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 2,
+    "fields": {
+      "name": "machine-2",
+      "endpoint": "http://127.0.0.1:8001/machine/2"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 3,
+    "fields": {
+      "name": "machine-3",
+      "endpoint": "http://127.0.0.1:8001/machine/3"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 4,
+    "fields": {
+      "name": "machine-4",
+      "endpoint": "http://127.0.0.1:8001/machine/4"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 5,
+    "fields": {
+      "name": "machine-5",
+      "endpoint": "http://127.0.0.1:8001/machine/5"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 6,
+    "fields": {
+      "name": "machine-6",
+      "endpoint": "http://127.0.0.1:8001/machine/6"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 7,
+    "fields": {
+      "name": "machine-7",
+      "endpoint": "http://127.0.0.1:8001/machine/7"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 8,
+    "fields": {
+      "name": "machine-8",
+      "endpoint": "http://127.0.0.1:8001/machine/8"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 9,
+    "fields": {
+      "name": "machine-9",
+      "endpoint": "http://127.0.0.1:8001/machine/9"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 10,
+    "fields": {
+      "name": "machine-10",
+      "endpoint": "http://127.0.0.1:8001/machine/10"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 11,
+    "fields": {
+      "name": "machine-11",
+      "endpoint": "http://127.0.0.1:8001/machine/11"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 12,
+    "fields": {
+      "name": "machine-12",
+      "endpoint": "http://127.0.0.1:8001/machine/12"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 13,
+    "fields": {
+      "name": "machine-13",
+      "endpoint": "http://127.0.0.1:8001/machine/13"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 14,
+    "fields": {
+      "name": "machine-14",
+      "endpoint": "http://127.0.0.1:8001/machine/14"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 15,
+    "fields": {
+      "name": "machine-15",
+      "endpoint": "http://127.0.0.1:8001/machine/15"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 16,
+    "fields": {
+      "name": "machine-16",
+      "endpoint": "http://127.0.0.1:8001/machine/16"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 17,
+    "fields": {
+      "name": "machine-17",
+      "endpoint": "http://127.0.0.1:8001/machine/17"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 18,
+    "fields": {
+      "name": "machine-18",
+      "endpoint": "http://127.0.0.1:8001/machine/18"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 19,
+    "fields": {
+      "name": "machine-19",
+      "endpoint": "http://127.0.0.1:8001/machine/19"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 20,
+    "fields": {
+      "name": "machine-20",
+      "endpoint": "http://127.0.0.1:8001/machine/20"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 21,
+    "fields": {
+      "name": "machine-21",
+      "endpoint": "http://127.0.0.1:8001/machine/21"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 22,
+    "fields": {
+      "name": "machine-22",
+      "endpoint": "http://127.0.0.1:8001/machine/22"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 23,
+    "fields": {
+      "name": "machine-23",
+      "endpoint": "http://127.0.0.1:8001/machine/23"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 24,
+    "fields": {
+      "name": "machine-24",
+      "endpoint": "http://127.0.0.1:8001/machine/24"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 25,
+    "fields": {
+      "name": "machine-25",
+      "endpoint": "http://127.0.0.1:8001/machine/25"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 26,
+    "fields": {
+      "name": "machine-26",
+      "endpoint": "http://127.0.0.1:8001/machine/26"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 27,
+    "fields": {
+      "name": "machine-27",
+      "endpoint": "http://127.0.0.1:8001/machine/27"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 28,
+    "fields": {
+      "name": "machine-28",
+      "endpoint": "http://127.0.0.1:8001/machine/28"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 29,
+    "fields": {
+      "name": "machine-29",
+      "endpoint": "http://127.0.0.1:8001/machine/29"
+    }
+  },
+  {
+    "model": "monitor.machine",
+    "pk": 30,
+    "fields": {
+      "name": "machine-30",
+      "endpoint": "http://127.0.0.1:8001/machine/30"
+    }
+  }
+]

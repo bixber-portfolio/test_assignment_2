@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head><meta charset="utf-8"><title>Мониторинг</title></head>
+<body>
+<h1>Мониторинг машин</h1>
+<table border="1" cellpadding="6">
+  <tr><th>ID</th><th>Name</th><th>Endpoint</th><th>CPU</th><th>Mem</th><th>Disk</th><th>Uptime</th><th>Last seen</th></tr>
+  {% for row in data %}
+  <tr>
+    <td>{{ row.machine.id }}</td>
+    <td>{{ row.machine.name }}</td>
+    <td><a href="{% url 'machine' row.machine.id %}">{{ row.machine.endpoint }}</a></td>
+    {% if row.metric %}
+      <td>{{ row.metric.cpu }}</td>
+      <td>{{ row.metric.mem }}</td>
+      <td>{{ row.metric.disk }}</td>
+      <td>{{ row.metric.uptime }}</td>
+      <td>{{ row.metric.requested_at }}</td>
+    {% else %}
+      <td colspan="4">No data</td>
+    {% endif %}
+  </tr>
+  {% endfor %}
+</table>
+</body>
+</html>
